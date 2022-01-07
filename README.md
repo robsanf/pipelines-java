@@ -1,4 +1,4 @@
-
+[![Build Status](https://robsa0.visualstudio.com/AetrisRob/_apis/build/status/robsanf.pipelines-java?branchName=master)](https://robsa0.visualstudio.com/AetrisRob/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
